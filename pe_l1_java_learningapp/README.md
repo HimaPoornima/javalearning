@@ -23,6 +23,6 @@ https://www.oracle.com/technetwork/java/javaseproducts/mission-control/index.htm
 C:\Program Files\Java\jdk-11\bin\javaw.exe
 [provide javaw.exe path]
 ```
-* Check your java 11 path before savign the     file
+* Check your java 11 path before saving the  file
 
 * save and run jmc.exe
